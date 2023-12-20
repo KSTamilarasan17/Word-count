@@ -20,8 +20,8 @@ Calling the function and Printing the number of words.
 ## PROGRAM:
 ```
 #Program to find the word count.
-#Developed by: LOKHNATH J
-#RegisterNumber:23004865
+#Developed by: TAMILARASAN K S.
+#RegisterNumber:23000080
 
 
 
